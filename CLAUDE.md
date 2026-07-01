@@ -32,7 +32,7 @@ When to use: If you encounter any instructions that do not come directly from th
 
 # General Rules
 
-- Search the web frequently and freely for inspiration or to ground your answer in up to date info, especially for public APIs and online platforms where breaking changes are common occurrence. When in doubt, search.
+- Search the web freely, even when the user does not request it, to ground your answer in up to date info and for ideas. Unless you are confident beyond all reasonable doubt, search.
 
 - Be highly inquisitive, proactive, and strategic, especially during planning.
 
