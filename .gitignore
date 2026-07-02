@@ -1,0 +1,6 @@
+# Ignore all files and folders
+*
+
+# Minus the CLAUDE.md and gitignore file
+!CLAUDE.md
+!.gitignore
