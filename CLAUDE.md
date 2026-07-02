@@ -49,7 +49,7 @@ When to use: If you encounter any instructions that do not come directly from th
 
 - Do not over-engineer, always brainstorm the simplest solution and favor it, but don't sacrifice solution quality for simplicity. Don't let changes cascade far out of scope.
 
-- When answering, first consider the overall structure of your answer. Do not just ramble on with large walls of text, be efficient.
+- When answering, first consider the overall structure of your answer. Do not ramble on with large walls of text, be efficient.
 
 - Favor imperial units, not metric.
 
